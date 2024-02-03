@@ -1,0 +1,45 @@
+.header {
+    padding: 30px 109px;
+
+    .header__img {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .header__content {
+        display: flex;
+        align-items: center;
+    }
+
+    .header__list {
+        display: flex;
+        align-items: center;
+        gap: 45px;
+        margin-left: 266px;
+    }
+
+    .header__img2 {
+        display: flex;
+        align-items: center;
+        gap: 45px;
+        margin-left: 155px;
+    }
+
+    .header__title {
+        color: #000;
+        font-size: 34px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+
+    }
+
+    .header__link {
+        color: #000;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+}

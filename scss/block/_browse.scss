@@ -1,0 +1,44 @@
+.browse {
+    padding-top: 56px;
+    padding-left: 231px;
+    padding-right: 231px;
+
+    .browse__block {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .browse__title {
+        color: var(--Font-Color, #333);
+        text-align: center;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .browse__text {
+        color: var(--Font-Color1, #666);
+        text-align: center;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 48px;
+    }
+
+    .browse__img {
+        width: 382.125px;
+        margin-bottom: 16px;
+    }
+
+    .browse__sub-title {
+        color: var(--Font-Color, #333);
+        text-align: center;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+}
